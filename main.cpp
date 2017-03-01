@@ -2,6 +2,8 @@
  
 using namespace std;
  
+// dodałem coś
+
 int main()
 {
     cout<<"Hello World!";
